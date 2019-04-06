@@ -76,19 +76,15 @@ You can both execute this architecture from RStudio or from a shiny server.
 As example, the following images contains the execution of the server:
 
 
-![General Dashboard](https://github.com/datalavidaloca/onfraud_paper/blob/master/imgs/GeneralDashboard.png?raw=true)
+![General Dashboard](https://raw.githubusercontent.com/datalavidaloca/onfraudrfi/master/imgs/OnFraudDashboard/GeneralDashboard.png)
 
+![Approval Limits](https://raw.githubusercontent.com/datalavidaloca/onfraudrfi/master/imgs/OnFraudDashboard/ApprovalLimits.png)
 
-![Approval Limits](https://github.com/datalavidaloca/onfraud_paper/blob/master/img/ApprovalLimits.png?raw=true)
+![Aggregation](https://raw.githubusercontent.com/datalavidaloca/onfraudrfi/master/imgs/OnFraudDashboard/AggregationScheme.png)
 
+![Outliers](https://raw.githubusercontent.com/datalavidaloca/onfraudrfi/master/imgs/OnFraudDashboard/SingleContractsOutliers.png)
 
-![Aggregation](https://github.com/datalavidaloca/onfraud_paper/blob/master/img/AggregationScheme.png?raw=true)
-
-
-![Outliers](https://github.com/datalavidaloca/onfraud_paper/blob/master/img/SingleContractsOutliers.png?raw=true)
-
-
-![Results dashboard](https://github.com/datalavidaloca/onfraud_paper/blob/master/img/ResultsDashboard.png?raw=true)
+![Results dashboard](https://raw.githubusercontent.com/datalavidaloca/onfraudrfi/master/imgs/OnFraudDashboard/ResultsDashboard.png)
 
 
 
